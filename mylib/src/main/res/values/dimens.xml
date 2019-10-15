@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--默认圆角矩形的圆角幅度-->
+    <dimen name="defaultCornerRadius">2dp</dimen>
+    <!--圆角图形、矩形，线条等宽度-->
+    <dimen name="shapeLineWidth">1px</dimen>
+</resources>

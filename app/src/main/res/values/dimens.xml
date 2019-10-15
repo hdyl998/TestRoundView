@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!--按钮字体样式-->
+    <dimen name="btnTextSize">18dp</dimen>
+</resources>
